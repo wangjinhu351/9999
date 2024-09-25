@@ -10,7 +10,7 @@
 河南新闻频道,http://111.48.229.28/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c8c482b9b9ddb65c5144d40a97eebd54&wsTime=1727288519&wsSession=342f27acc9e0fff5cdb12df2-172727982119698&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
 河南公共频道,http://111.48.229.111/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=31c2352bba46d34c1351b6ca135d2e0e&wsTime=1727281536&wsSession=214cb46cdecd18798cf5d767-172727985857775&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
 河南新农村频道,http://111.48.229.95/tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1620c2e18deecb2684f3765c425fcb7d&wsTime=1727288210&wsSession=b7bed8d06a763b2ffd5d2fdf-172727990479338&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
-📛  央视频道,#genre#
+📛 中国央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
