@@ -2,6 +2,14 @@
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+📛河南频道,#genre#
+河南都市频道,http://111.48.229.26/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=8b0b2c593aef93c0eb20a153a4fa1bdc&wsTime=1727289570&wsSession=6e9e7df2da8c4e5571c252f3-172727953167005&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
+河南电视台民生频道,http://111.48.229.29/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=26f6e8e0cb7458151e5700c2717c07ca&wsTime=1727289038&wsSession=ddc5658439aa09160aa78848-172727967090376&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
+河南法治频道,http://111.48.229.110/tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=07b558c9fc3cfcf4073b729c8e0a76b6&wsTime=1727291957&wsSession=baf1b9b9527d69baec5cadc7-172727972837129&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
+河南电视剧频道,http://111.48.229.114/tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=96d7cf1b8e450b58908d37231b07153a&wsTime=1727288517&wsSession=3c067285cf7810e79e064bdb-172727977001536&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
+河南新闻频道,http://111.48.229.28/tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=c8c482b9b9ddb65c5144d40a97eebd54&wsTime=1727288519&wsSession=342f27acc9e0fff5cdb12df2-172727982119698&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
+河南公共频道,http://111.48.229.111/tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=31c2352bba46d34c1351b6ca135d2e0e&wsTime=1727281536&wsSession=214cb46cdecd18798cf5d767-172727985857775&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
+河南新农村频道,http://111.48.229.95/tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1620c2e18deecb2684f3765c425fcb7d&wsTime=1727288210&wsSession=b7bed8d06a763b2ffd5d2fdf-172727990479338&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
 🌍王錿 电影轮播,#genre#
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D&ZJYD
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
