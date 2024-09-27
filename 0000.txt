@@ -2,6 +2,7 @@
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 📛 河南电视频道,#genre#
 河南都市频道,http://111.48.229.26/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=8b0b2c593aef93c0eb20a153a4fa1bdc&wsTime=1727289570&wsSession=6e9e7df2da8c4e5571c252f3-172727953167005&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
 河南电视台民生频道,http://111.48.229.29/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=26f6e8e0cb7458151e5700c2717c07ca&wsTime=1727289038&wsSession=ddc5658439aa09160aa78848-172727967090376&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
