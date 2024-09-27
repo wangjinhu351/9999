@@ -3,6 +3,7 @@
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+錿言暉語,https://v3-web.douyinvod.com/841db8a32265a2dc275901a229bb78e6/66f6f3b8/video/tos/cn/tos-cn-ve-0015c800/93a2c31449f142f2a5f0f3a88c8e3007/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=1575&bt=1575&cs=0&ds=3&ft=AJkeU_TERR0sTlC42Nj2Nc0iPMgzbLf_bAsU_4eKRf_2Nv7TGW&mime_type=video_mp4&qs=0&rc=ZmZlZGk4aTxpNjU8aWhkOEBpamRtczQ6Zms7OTMzNGkzM0A0Mi0xMi0tNV4xM18zMjAzYSMtbnNycjRnZ3BgLS1kLTBzcw%3D%3D&btag=80000e00010000&cquery=100o_100w_100B_100x_102u&dy_q=1727449460&l=2024092723042039180B46A0D2AB283A8D
 📛 河南电视频道,#genre#
 河南都市频道,http://111.48.229.26/tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=8b0b2c593aef93c0eb20a153a4fa1bdc&wsTime=1727289570&wsSession=6e9e7df2da8c4e5571c252f3-172727953167005&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
 河南电视台民生频道,http://111.48.229.29/tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=26f6e8e0cb7458151e5700c2717c07ca&wsTime=1727289038&wsSession=ddc5658439aa09160aa78848-172727967090376&wsIPSercert=8eee100d34472f38546ddcb7d0ff7603&wsiphost=local&wsBindIP=1
