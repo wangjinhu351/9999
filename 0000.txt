@@ -4,6 +4,9 @@
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 錿言暉語,https://vd4.bdstatic.com/mda-nbpdnsq8rmabxasy/sc/cae_h264_delogo/1645705535550224627/mda-nbpdnsq8rmabxasy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565188-0-0-e74ddac03679c2d3f0d8b83257ccfbe0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2188346086&vid=10288256394144981158&abtest=103742_2-103890_2-103579_2&klogid=2188346086
+📛听听歌曲,#genre#
+唱着情歌流眼泪,http://tspc.bbdj.com/2012/07/2/14927-b8b413/14927.m3u8?upt=56a37cbe1730217599
+情歌CD精选,http://tspc.bbdj.com/2014/10/2/31608-39b85e/31608.m3u8?upt=04f0bee91730217599
 📛 中国央视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
@@ -761,7 +764,7 @@ Jason Derulo - Breathing -[102M.mp4-1080P],https://15799848.s21v.faiusr.com/58/A
 布兰妮-Britney Spears-Criminal-[127M.mp4-1080P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg79ys4gUoovb4mAQ.mp4
 欧美空灵抒情ＭＶ－Arash feat. Helena - Broken Angel－[98M.mp4-720P],https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj9ms4gUo9taBtAU.mp4
 
-📛4KMV歌舞,#genre#
+📛4K 歌舞,#genre#
 MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpMuw6AUoroLfpgI.mp4
 MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-fyo6wUoguOg8AI.mp4
 MV.4k,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-Pyo6wUo9LOQ5wQ.mp4
