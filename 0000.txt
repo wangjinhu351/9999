@@ -2,6 +2,17 @@
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
+大爱1台,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱2台,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2台,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8?
+大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8?
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 錿言暉語,https://vd4.bdstatic.com/mda-nbpdnsq8rmabxasy/sc/cae_h264_delogo/1645705535550224627/mda-nbpdnsq8rmabxasy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565188-0-0-e74ddac03679c2d3f0d8b83257ccfbe0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2188346086&vid=10288256394144981158&abtest=103742_2-103890_2-103579_2&klogid=2188346086
 
@@ -101,15 +112,7 @@ CCTV17,hhttp://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226531/index.m3u8
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 北京纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-📛 王錿 电影频道,#genre#
-赶尽杀绝2,https://svip.high21-playback.com/20240925/38997_b233ac00/index.m3u8
-赶尽杀绝2,https://svip.high21-playback.com/20240925/38997_b233ac00/2000k/hls/mixed.m3u8
-印度英雄2,https://v.cdnlz12.com/20240812/16343_b4ea6225/index.m3u8
-印度英雄2,https://v.cdnlz12.com/20240812/16343_b4ea6225/2000k/hls/mixed.m3u8
-亡命赌注,https://v.cdnlz12.com/20240712/15651_74ffad51/index.m3u8
-亡命赌注,https://v.cdnlz12.com/20240712/15651_74ffad51/2000k/hls/mixed.m3u8
-拉 扬,https://v.cdnlz12.com/20240829/16677_7f4438c0/index.m3u8
-拉 扬,https://v.cdnlz12.com/20240829/16677_7f4438c0/2000k/hls/mixed.m3u8
+
 🌍王錿 电影轮播,#genre#
 CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000$1920x1080
 CHC家庭影院,http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
@@ -205,6 +208,10 @@ CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=86
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 IPTV经典电影,http://115.171.216.51:4000/rtp/225.1.8.203:9024$720x576
 IPTV经典电影,http://115.171.80.36:8888/rtp/225.1.8.203:9024$720x576
+NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 🌍王錿 经典明星,#genre#
 许氏三杰,http://www.52sw.top:678/play/huya.php?id=11602033
 许冠英,http://www.52sw.top:678/play/huya.php?id=11601972
