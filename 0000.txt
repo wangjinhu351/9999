@@ -14,8 +14,7 @@
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-錿言暉語,https://vd4.bdstatic.com/mda-nbpdnsq8rmabxasy/sc/cae_h264_delogo/1645705535550224627/mda-nbpdnsq8rmabxasy.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1660565188-0-0-e74ddac03679c2d3f0d8b83257ccfbe0&bcevod_channel=searchbox_feed&cd=0&pd=1&pt=3&logid=2188346086&vid=10288256394144981158&abtest=103742_2-103890_2-103579_2&klogid=2188346086
-法国时尚,https://v3-default.365yg.com/4b6ca350719a6ba6dd897e6d5353b872/66fdfb4a/video/tos/cn/tos-cn-ve-0015c800/3c7e566467ff4cb1bf8deb05f7508bfd/?a=2011&ch=0&cr=0&dr=0&cd=0%7C0%7C0%7C0&br=339&bt=339&cs=0&ds=6&ft=aT_7TQQqUYqfJEZPo0OW_QYaUqiXOUTHxVJE6BUgJvPD-Ipz&mime_type=video_mp4&qs=0&rc=OWc2ZGk3aWdkZzM6OjY5M0BpanFtOGZzNWg3czMzZGkzM0AwNS5hYC8uNTUxYWEyYjQyYSMxYmpnNl5fYWZfLS02LS9zcw%3D%3D&btag=80000e00008000&dy_q=1727917360&l=202410030902403AAC86592EDEE2A50EFC
+錿言暉語,https://v3-default.365yg.com/4b6ca350719a6ba6dd897e6d5353b872/66fdfb4a/video/tos/cn/tos-cn-ve-0015c800/3c7e566467ff4cb1bf8deb05f7508bfd/?a=2011&ch=0&cr=0&dr=0&cd=0%7C0%7C0%7C0&br=339&bt=339&cs=0&ds=6&ft=aT_7TQQqUYqfJEZPo0OW_QYaUqiXOUTHxVJE6BUgJvPD-Ipz&mime_type=video_mp4&qs=0&rc=OWc2ZGk3aWdkZzM6OjY5M0BpanFtOGZzNWg3czMzZGkzM0AwNS5hYC8uNTUxYWEyYjQyYSMxYmpnNl5fYWZfLS02LS9zcw%3D%3D&btag=80000e00008000&dy_q=1727917360&l=202410030902403AAC86592EDEE2A50EFC
 📺 中国电视频道,#genre#
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
