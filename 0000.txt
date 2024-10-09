@@ -239,29 +239,8 @@ NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 
 🍃轮播频道,#genre#
-第一滴血全集,https://sxtv.cloudns.org/yy/1354932355
-敢死队全轮播,https://sxtv.cloudns.org/yy/1382735573
-速度与激情集,https://sxtv.cloudns.org/yy/1382736911
-漫威系列轮播,https://sxtv.cloudns.org/yy/1354932402
-变形金刚轮播,https://sxtv.cloudns.org/yy/1382736803
-哈利波特全集,https://sxtv.cloudns.org/yy/1382745105
-夺宝奇兵全集,https://sxtv.cloudns.org/yy/1382736833
-机械战警全集,https://sxtv.cloudns.org/yy/1382736854
-古惑仔国轮播,https://sxtv.cloudns.org/yy/1458015189
-黑衣一二轮播,https://sxtv.cloudns.org/yy/1354930936
-叠影重重全集,https://sxtv.cloudns.org/yy/1382735570
-美剧解说轮播,https://sxtv.cloudns.org/douyu/9643264
-经典美剧解说,https://sxtv.cloudns.org/douyu/9123570
-雪中悍刀行剧,http://159.75.85.63:35455/huya/11336592
-雪中悍刀行剧,http://cfss.cc/cdn/hy/11336592.m3u8
-庆余年电视剧,http://159.75.85.63:35455/huya/11352960
-庆余年电视剧,http://cfss.cc/cdn/hy/11352960.m3u8
-琅琊榜电视剧,http://zby.xjqxz.top/lyb/live.m3u8
-83射雕英雄传,https://sxtv.cloudns.org/yy/1354210357
-95神雕侠侣粤,https://sxtv.cloudns.org/yy/1354926637
-96笑傲江湖版,https://sxtv.cloudns.org/yy/1354930909
-新白娘子轮播,https://sxtv.cloudns.org/yy/1354930969
-仙剑奇侠传剧,https://sxtv.cloudns.org/yy/1382749903
+《疾速追杀4》,https://vip.lz-cdn1.com/20230523/21033_d0505ab2/index.m3u8
+《疾速追杀4》,https://vip.lz-cdn1.com/20230523/21033_d0505ab2/2000k/hls/mixed.m3u8
 🌍相声小品,#genre#
 赵本山小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716
 开心麻花小品,http://maomao.kandiantv.cn/douyu1.php?id=10153463
