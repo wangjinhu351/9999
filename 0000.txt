@@ -984,10 +984,6 @@ Cc,http://cfss.cc/cdn/hy/11601966.flv
 浮生没有若梦,http://cfss.cc/cdn/hy/11601986.flv
 苦瓜老姨,http://cfss.cc/cdn/hy/11342429.flv
 
-
-🍃轮播频道,#genre#
-《疾速追杀4》,https://vip.lz-cdn1.com/20230523/21033_d0505ab2/index.m3u8
-《疾速追杀4》,https://vip.lz-cdn1.com/20230523/21033_d0505ab2/2000k/hls/mixed.m3u8
 🌍相声小品,#genre#
 赵本山小品,http://maomao.kandiantv.cn/douyu1.php?id=9817716
 开心麻花小品,http://maomao.kandiantv.cn/douyu1.php?id=10153463
